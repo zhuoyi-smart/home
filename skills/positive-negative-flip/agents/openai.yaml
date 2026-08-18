@@ -1,0 +1,4 @@
+interface:
+  display_name: "正负反转"
+  short_description: "将单张照片生成常规版与克制手作版两款正负形拼贴成片"
+  default_prompt: "使用 $positive-negative-flip 将这张照片生成常规版与克制手作版两张正负形拼贴成片。"
